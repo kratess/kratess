@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Fullstack Developer<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about anything<br>⚡ Fun fact -> I started programming when I was 14
+🔭 I’m currently working as a Fullstack Developer<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning TypeScript and Rust<br>💬 Ask me about anything<br>⚡ Fun fact -> I started programming when I was 14
 
 
 # 💻 Tech Stack:
